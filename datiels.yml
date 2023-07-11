@@ -1,0 +1,6 @@
+train: /content/drive/MyDrive/medical_image/train
+val: /content/drive/MyDrive/medical_image/val
+test: /content/drive/MyDrive/medical_image/test
+
+nc: 3
+names: ['WBC', 'RBC', 'Platelets']
